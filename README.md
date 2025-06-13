@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <img align="right" width="200" src="https://raw.githubusercontent.com/AyanBanerjee29/AyanBanerjee29/main/assets/profile.gif" />
 
@@ -37,17 +37,18 @@
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
 | [🎬 Movie Recommendation System](https://github.com/AyanBanerjee29/Movie_Recommendation_System) | PyTorch Geometric, LightGCN | Built LightGCN-based movie recommendation engine on MovieLens; compared GCN, GAT, LightGCN performance with BPR loss. |
-| 🎵 Music Source Separation | PyTorch, U-Net | Enhanced U-Net model to separate vocals & accompaniment from music tracks (MUSDB18). |
-| 🔍 Financial Fraud Detection | PyTorch Geometric, GNN | Graph-based detection of fraud rings & suspicious transactions; real-world financial fraud modeling. |
+| [🎵 Music Source Separation](https://github.com/AyanBanerjee29/Music_Segmentation) | PyTorch, U-Net | Enhanced U-Net model to separate vocals & accompaniment from music tracks (MUSDB18). |
+| 🔍 [Bengali OCR](https://github.com/AyanBanerjee29/Bengali_OCR) |OpenCV , CNN | Build two CNN models LeNet5 and ResNet18. |
+| ❤ [Heart Disease Prediction](https://github.com/AyanBanerjee29/Heart-Disease-Prediction-using-Machine-Learning-methods) | Scikit-Learn | Used different ML algorithms.|
 
 ---
 
 ## 🏆 What I Bring to the Table
 
-✔️ Applied Graph Neural Networks for recommendation & fraud detection  
-✔️ Deep Learning expertise in CV and Audio processing  
-✔️ Skilled in Data Analysis, EDA, and Machine Learning pipelines  
-✔️ Academic rigor mixed with practical problem solving  
+✔️ Expertise in Statistics and Time Series Analysis for data-driven problem solving
+✔️ Strong foundation in Machine Learning and Deep Learning, with a focus on their mathematical principles and inner workings
+✔️ Hands-on experience with Graph Neural Networks (GNN) for recommendation systems
+✔️ Ability to bridge theory and practice — building models that are not only performant but also explainable 
 
 ---
 
@@ -64,7 +65,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ayanbanerjee29.github.io-9cf?style=for-the-badge)](https://ayanbanerjee29.github.io/Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayan-banerjee-b8234b321/)
-[![Email](https://img.shields.io/badge/Email-ayanyourmail@gmail.com-red?style=for-the-badge&logo=gmail)](ayan292004banerjee@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ayan292004banerjee@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ayan292004banerjee@gmail.com)
 
 ---
 
