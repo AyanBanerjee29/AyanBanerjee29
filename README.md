@@ -11,6 +11,8 @@
 🎯 Dreaming to solve **real-world problems with intelligent systems**  
 
 ---
+[📄 Download My Resume](https://github.com/AyanBanerjee29/AyanBanerjee29/raw/main/AyanResume.pdf)
+
 
 ## 🔧 Tools & Skills Toolbox
 
