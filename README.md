@@ -11,10 +11,10 @@
 🎯 Dreaming to solve **real-world problems with intelligent systems**  
 
 ---
-[📄 Download My Resume](https://github.com/AyanBanerjee29/AyanBanerjee29/raw/main/AyanResume.pdf)
+[DOWNLOAD MY RESUME](https://github.com/AyanBanerjee29/AyanBanerjee29/raw/main/AyanResume.pdf)
 
 
-[Portfolio](https://github.com/AyanBanerjee29/AyanBanerjee29.github.io/)
+[PORTFOLIO](https://ayanbanerjee29.github.io/)
 
 
 ## 🔧 Tools & Skills Toolbox
