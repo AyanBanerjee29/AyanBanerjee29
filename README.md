@@ -37,16 +37,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| [🎬 Movie Recommendation System](https://github.com/AyanBanerjee29/Movie_Recommendation_System) | PyTorch Geometric, LightGCN | Built LightGCN-based movie recommendation engine on MovieLens; compared GCN, GAT, LightGCN performance with BPR loss. |
-| [🎵 Music Source Separation](https://github.com/AyanBanerjee29/Music_Segmentation) | PyTorch, U-Net | Enhanced U-Net model to separate vocals & accompaniment from music tracks (MUSDB18). |
-| 🔍 [Bengali OCR](https://github.com/AyanBanerjee29/Bengali_Character_Recognition) |OpenCV , CNN | Build two CNN models LeNet5 and ResNet18. |
-| ❤ [Heart Disease Prediction](https://github.com/AyanBanerjee29/Heart-Disease-Prediction-using-Machine-Learning-methods) | Scikit-Learn | Used different ML algorithms.|
-
----
 
 ## 🏆 What I Bring to the Table
 
